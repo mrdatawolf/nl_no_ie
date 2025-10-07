@@ -1,5 +1,5 @@
 <p align="center">
-  images/evergreen.png
+  ./WoodManager.png
 </p>
 
 #if you are doing the ps1 version you need this:
