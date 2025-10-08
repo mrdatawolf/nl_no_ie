@@ -1,0 +1,15 @@
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Debug\net8.0\WoodManagerApp.exe
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Debug\net8.0\WoodManagerApp.deps.json
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Debug\net8.0\WoodManagerApp.runtimeconfig.json
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Debug\net8.0\WoodManagerApp.dll
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Debug\net8.0\WoodManagerApp.pdb
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.AssemblyInfoInputs.cache
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.AssemblyInfo.cs
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.sourcelink.json
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.dll
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\refint\WoodManagerApp.dll
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.pdb
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\WoodManagerApp.genruntimeconfig.cache
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\obj\Debug\net8.0\ref\WoodManagerApp.dll

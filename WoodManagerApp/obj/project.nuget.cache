@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iA5fLwXX1HA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Public\\Projects\\GitHub\\nl_no_ie\\WoodManagerApp\\WoodManagerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrick\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.20\\microsoft.net.illink.tasks.8.0.20.nupkg.sha512",
+    "C:\\Users\\patrick\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.20\\microsoft.netcore.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\patrick\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\patrick\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.20\\microsoft.aspnetcore.app.runtime.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

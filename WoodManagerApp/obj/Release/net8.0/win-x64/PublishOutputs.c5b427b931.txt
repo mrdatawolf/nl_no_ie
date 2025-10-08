@@ -1,0 +1,2 @@
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Release\net8.0\win-x64\publish\WoodManagerApp.pdb
+C:\Users\Public\Projects\GitHub\nl_no_ie\WoodManagerApp\bin\Release\net8.0\win-x64\publish\WoodManagerApp.exe
